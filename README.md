@@ -1,2 +1,14 @@
-# BASIC-BANKING-SYSTEM
-Completed task 1-Basic banking system of Graduate Rotational Internship Program #GRIPSEP21 under Spark foundation successfully .Banking system helps the bank employee to add new customer  and can transfer the amount among different customers of bank .This banking system also provides transaction history .  Stack used -  Front-end : HTML, CSS, Bootstrap and JavaScript  Back-end : PHP  Database : MySQL
+# the-sparks-foundation
+Sparks Foundation Internship Project : Basic Banking System  
+A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.  
+
+Stack used - 
+Front-end : HTML, CSS, Bootstrap & Javascript 
+Back-end : PHP 
+Database : MySQL   
+
+Database contains two Tables- Users Table & Transaction Table 
+1. User table have basic fields such as name, email & current balance. 
+2. Transaction table records all transfers happened along with their time.  
+
+Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
