@@ -1,0 +1,2 @@
+# BASIC-BANKING-SYSTEM
+Completed task 1-Basic banking system of Graduate Rotational Internship Program #GRIPSEP21 under Spark foundation successfully .Banking system helps the bank employee to add new customer  and can transfer the amount among different customers of bank .This banking system also provides transaction history .  Stack used -  Front-end : HTML, CSS, Bootstrap and JavaScript  Back-end : PHP  Database : MySQL
